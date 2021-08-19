@@ -4,7 +4,7 @@ I am Aboli Marathe, a final year undergraduate student at Pune Institute of Comp
 
 ### Recent Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I enjoy working in computer vision.
 
 ```markdown
 Syntax highlighted code block
