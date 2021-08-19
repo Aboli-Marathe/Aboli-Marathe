@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Hello
 
-You can use the [editor on GitHub](https://github.com/Aboli-Marathe/Aboli-Marathe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Aboli Marathe, a final year undergraduate student at Pune Institute of Computer Technology, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Recent Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
